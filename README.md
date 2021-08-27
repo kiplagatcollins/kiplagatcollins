@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Collins Kiplagat</h1>
-<h3 align="center">A passionate full stack developer from Kenya</h3>
+<h3 align="center">A passionate Full Stack Developer from Kenya</h3>
 
 - 🔭 I’m currently working on **Guest Book Application**
 
