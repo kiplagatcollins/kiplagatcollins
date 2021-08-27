@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Collins Kiplagat</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Employee Management System**
+- 🔭 I’m currently working on **Guest Book Application**
 
-- 🌱 I’m currently learning **VueJS, Django,Material**
+- 🌱 I’m currently learning **VueJS, postgreSQL,Material**
 
-- 👯 I’m looking to collaborate on **CSS Dashboard**
+- 👯 I’m looking to collaborate on **Angular projects**
 
 - 👨‍💻 All of my projects are available at [https://cokikip.github.io/](https://cokikip.github.io/)
 
-- 💬 Ask me about **Angular, Spring boot, MySQL, Bootstrap and HTML**
+- 💬 Ask me about **Angular, Spring boot, MySQL,Laravel, VueJs Bootstrap and HTML**
 
 - 📫 How to reach me **cokikipla@gmail.com**
 
