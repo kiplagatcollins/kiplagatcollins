@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **VueJS, React, Kotlin, API Integration and Design**
 
-- 👨‍💻 All of my projects are available at [https://cokikip.github.io/](https://cokikip.github.io/)
+- 👨‍💻 All of my projects are available at [https://collinskiplagat.vercel.app](https://collinskiplagat.vercel.app)
 
 - 💬 Ask me about **Angular,React,VueJS,Tailwind CSS, Spring boot, MySQL, Bootstrap and HTML**
 
 - 📫 How to reach me **cokicollinji@gmail.com**
 
-- 📄 Know about my experiences [https://cokikip.github.io/](https://cokikip.github.io/)
+- 📄 Know about my experiences [https://collinskiplagat.vercel.app](https://collinskiplagat.vercel.app)
 
 - ⚡ Fun fact **I am hardworking, love watching anime+animation and playing football**
 
