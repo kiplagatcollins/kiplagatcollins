@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Angular,React,VueJS,Tailwind CSS, Spring boot, MySQL, Bootstrap and HTML**
 
-- 📫 How to reach me **cokicollinji@gmail.com**
+- 📫 How to reach me **kiplagat.k.collins@gmail.com**
 
 - 📄 Know about my experiences [https://collinskiplagat.vercel.app](https://collinskiplagat.vercel.app)
 
