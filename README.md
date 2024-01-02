@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://collinskiplagat.vercel.app](https://collinskiplagat.vercel.app)
 
-- 💬 Ask me about **Java,React,Next Js,Tailwind CSS, Spring boot, MySQL, Golang and HTML**
+- 💬 Ask me about **Java, React, Next Js, Tailwind CSS, Spring boot, MySQL and Golang**
 
 - 📫 How to reach me **kiplagat.k.collins@gmail.com**
 
