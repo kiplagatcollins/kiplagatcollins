@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, React, Next Js, Tailwind CSS, Spring boot, MySQL and Golang**
 
-- 📫 How to reach me **kiplagat.k.collins@gmail.com**
+- 📫 How to reach me **cokikipla@gmail.com**
 
 - 📄 Know about my experiences [https://collinskiplagat.vercel.app](https://collinskiplagat.vercel.app)
 
